@@ -21,6 +21,7 @@ Coming Soon.
 3. [Fork](http://help.github.com/fork-a-repo/) the OVAL Language Repository
 4. [[Make changes|Make Changes]] to your fork
 5. Send a [pull request](http://help.github.com/send-pull-requests)
+6. [Sync] (https://help.github.com/articles/syncing-a-fork) your fork to get the latest changes
 
 ## Retrieving a Specific Revision
 During the development of an OVAL Language release, the specifications will go through many draft revisions and potentially multiple release candidate revisions before becoming official. Each revision of the OVAL Language, will be tagged with a [Git tag] (http://git-scm.com/book/en/Git-Basics-Tagging) to save the changes at that point in time for review in the future.
