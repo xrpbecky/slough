@@ -56,6 +56,9 @@ http://learn.github.com/p/normal.html
 
 http://help.github.com/send-pull-requests/
 
+**Syncing a Fork**
+http://help.github.com/articles/syncing-a-fork
+
 **Being Social on GitHub**
 
 http://help.github.com/be-social/
