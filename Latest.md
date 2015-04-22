@@ -7,7 +7,7 @@
 | [Variables Schema](../blob/master/schemas/oval-variables-schema.xsd) |
 | [Directives Schema](../blob/master/schemas/oval-directives-schema.xsd) |
 
-| Platform | Version | *-def | *-sc |
+| Platform | Version | Definitions Schema | System Characteristics Schema |
 | -------- |:-------------:| :-----: | :-----:|
 |AIX | 5.11.1:1.0 | [aix-def](../blob/master/schemas/aix-definitions-schema.xsd) | [aix-sc](../blob/master/schemas/aix-system-characteristics-schema.xsd)|
 |Android | 5.11.1:1.0 | [android-def](../blob/master/schemas/android-definitions-schema.xsd) | [android-sc](../blob/master/schemas/android-system-characteristics-schema.xsd)|
