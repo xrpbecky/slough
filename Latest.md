@@ -1,11 +1,11 @@
-| Core 5.11.1 | oval* |
+| Core 5.11.1 |
 | -------- |:-------------:| :-----: | :-----:| |
-| Common | [oval](../blob/master/schemas/oval-common-schema.xsd) |
-| Definitions | [oval-def](../blob/master/schemas/oval-definitions-schema.xsd) |
-| System Characteristics | [oval-sc](../blob/master/schemas/oval-system-characteristics-schema.xsd) |
-| Results| [oval-res](../blob/master/schemas/oval-results-schema.xsd) |
-| Variables | [oval-var](../blob/master/schemas/oval-variables-schema.xsd) |
-| Directives | [oval-dir](../blob/master/schemas/oval-directives-schema.xsd) |
+| [Common  Schema](../blob/master/schemas/oval-common-schema.xsd) |
+| [Definitions Schema](../blob/master/schemas/oval-definitions-schema.xsd) |
+| [System Characteristics Schema](../blob/master/schemas/oval-system-characteristics-schema.xsd) |
+| [Results Schema](../blob/master/schemas/oval-results-schema.xsd) |
+| [Variables Schema](../blob/master/schemas/oval-variables-schema.xsd) |
+| [Directives Schema](../blob/master/schemas/oval-directives-schema.xsd) |
 
 | Platform | Version | *-def | *-sc |
 | -------- |:-------------:| :-----: | :-----:|
