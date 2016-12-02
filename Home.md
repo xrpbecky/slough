@@ -13,7 +13,7 @@ Experimental capabilities for the OVAL Language will be developed in the [OVAL L
 The process of developing an official OVAL Language release is outlined in the [OVAL Language Revision Process] (http://oval.mitre.org/language/about/revision_process.html) and follows the [OVAL Language Versioning Policy] (http://ovalproject.github.io/documentation/policy/versioning/).
 
 ## OVAL Language Naming and Design Conventions
-Coming Soon.
+OVAL Language naming and design conventions can be found in the [OVAL Developer's Guide](http://ovalproject.github.io/getting-started/best-practices/)
 
 ## Quick Start Guide
 1. Set up [Git](http://help.github.com/win-set-up-git/) on your system
@@ -94,7 +94,7 @@ You may also view the differences between revisions through the GitHub project p
 ## Requesting a New Feature, Reporting a Bug, or Getting Help
 If you would like to request a new feature or report a bug, please create a new [issue](https://github.com/blog/831-issues-2-0-the-next-generation) in the [OVAL Language Tracker](https://github.com/OVALProject/Language/issues). 
 
-Please send all help requests to the oval-developer-list by sending a message to oval-developer-list@lists.mitre.org. You may also request new features or report bugs by sending a message to this mailing list. If you are not currently subscribed to this mailing list, you may sign up at http://oval.mitre.org/community/registration.html.
+Please send all help requests to the oval-developer-list by sending a message to oval_developer@lists.cisecurity.org. You may also request new features or report bugs by sending a message to this mailing list. If you are not currently subscribed to this mailing list, you may sign up at https://oval.cisecurity.org/community/discuss.
 
 ## Useful Links
 The [[Useful Links]] page contains links to resources that will help with the OVAL Language and GitHub among other things.
