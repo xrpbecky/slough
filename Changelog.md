@@ -1,3 +1,10 @@
+#OVAL 5.11.2 Changelog
+
+The change-log for v5.11.1->5.11.2 can be found in the repository file [changelog.5.11.2.txt](../Language/blob/master/changelog.5.11.2.txt).  Going forward, change logs can be generated automatically using the command
+```git log [tag1]..[tag2]```.
+
+#OVAL 5.11.1 Changelog
+
 The following lists the collective changes made to the specified OVAL versions to arrive at the current OVAL Language version. 
 
 ----------------------------------
