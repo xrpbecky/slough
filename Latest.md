@@ -1,2 +1,0 @@
-# Latest Release
-The latest release of the OVAL language is version 5.11.2, dated December 13, 2016.  See the annotation-derived (generated) [schema documentation](../blob/master/docs/README.md) for more information.
