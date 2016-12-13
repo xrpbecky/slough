@@ -1,6 +1,6 @@
 If you are modifying a file that exists in your fork of the OVAL Language, editing a file is as simple as:
 
-1. Creating a [new issue](../Language/issues/new) explaining the rationale for the change
+1. Creating a [new issue](../issues/new) explaining the rationale for the change
 2. Selecting the file in your fork of the OVAL Language
 3. Clicking the "Edit this file" button
 3. Making the changes to the file
